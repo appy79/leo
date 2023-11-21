@@ -1,0 +1,13 @@
+{
+    "colors": {
+        "red": "FF6550",
+        "blue": "15C1EC",
+        "black": "000000",
+        "white": "FFFFFF"
+    },
+
+    "fonts": {
+        "main-text": "lexend-light", 
+        "headings": "lexend-semi-bold"
+    }
+}
